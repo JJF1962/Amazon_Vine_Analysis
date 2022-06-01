@@ -38,3 +38,4 @@ It was Filtered the data and created a new DataFrame or table to retrieve all th
 
 
 ## Summary
+The tools amd metodology learned was very powerful and allow to manage and analize properly big data, imposible to manange ina local server
