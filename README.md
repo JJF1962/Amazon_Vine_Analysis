@@ -14,7 +14,10 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_v1_00.ts
 
 Later using codes it was extracted the dataset into a DataFrame. and posteriorly transformed  the DataFrame into four different DataFrames, matching the echema in pgAdmin. finally it was uploaded the transformed data into four tables and ran the queries in pgAdmin to confirm that the data has been uploaded. To see the outcome in pg Admin it was used a simple code in the editor select * table_name as shown in the figures below:
 
-![this is an image] ()
+Customers_table
+
+![this is an image] (https://github.com/JJF1962/Amazon_Vine_Analysis/blob/main/Images/Capture%20customers_table.PNG)
+
 
 ![this is an image] ()
 
