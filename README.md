@@ -33,7 +33,7 @@ vine_table
 
 
 ## Deliverable 2 Determine Bias of Vine Reviews
-It was usedg either PySpark to complete Deliverable 2.
+It was used PySpark to complete Deliverable 2.
 It was Filtered the data and created a new DataFrame or table to retrieve all the rows where the total_votes count is equal to or greater than 20 to pick reviews that are more likely to be helpful and to avoid having division by zero errors later on. Filter the new DataFrame or table created in Step 1 and create a new DataFrame or table to retrieve all the rows where the number of helpful_votes divided by total_votes is equal to or greater than 50%.as you cansee in the attached Vine_Review_Analysis.ipynb
 
 
