@@ -22,7 +22,11 @@ products_table
 
 ![this is an image](https://github.com/JJF1962/Amazon_Vine_Analysis/blob/main/Images/Capture%20products_table.PNG)
 
-![this is an image] ()
+rewiew_id_table
+
+![this is an image](https://github.com/JJF1962/Amazon_Vine_Analysis/blob/main/Images/Capture%20review_id_table.PNG)
+
+vine_table
 
 ![this is an image] ()
 
